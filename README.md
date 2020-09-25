@@ -1,4 +1,4 @@
-# [IQZ Internal Workshops] REST APIs - the ultra basics
+# REST APIs - the ultra basics
 
 **Date:** 25th September 2020
 
