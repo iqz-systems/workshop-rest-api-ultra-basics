@@ -1,5 +1,7 @@
 # [IQZ Internal Workshops] REST APIs - the ultra basics
 
+**Date:** 25th September 2020
+
 This repository contains the sample code and some scribblings done during our internal workshop delving into the basics of REST APIs.
 
 ## How to use
